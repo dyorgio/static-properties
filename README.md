@@ -19,7 +19,7 @@ Using Mysema Maven APT plugin:
             <configuration>
                 <processor>dyorgio.apt.staticproperties.AnnotationProcessor</processor>
                 <options>
-                    <staticproperties.topAnnotations>annotation1,annotation1...</staticproperties.topAnnotations>
+                    <staticproperties.topAnnotations>annotation1,annotation2...</staticproperties.topAnnotations>
 	            </options>
             </configuration>
         </execution>
