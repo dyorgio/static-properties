@@ -4,7 +4,7 @@ A annotation processor for static property navigation
 
 Usage
 -----
-Using Mysema Maven APT plugin:
+Using [Mysema Maven APT plugin](https://github.com/querydsl/apt-maven-plugin):
 
 ```.xml
 <plugin>
