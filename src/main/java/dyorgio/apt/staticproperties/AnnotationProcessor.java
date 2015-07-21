@@ -27,6 +27,7 @@ import javax.tools.JavaFileObject;
 @SupportedAnnotationTypes("*")
 @SupportedSourceVersion(SourceVersion.RELEASE_6)
 public class AnnotationProcessor extends AbstractProcessor {
+    
 
     public static final String STATICPROPERTIES_ANNOTATIONS = "staticproperties.topAnnotations";
     public static final String STATICPROPERTIES_PREFIX = "staticproperties.prefix";
