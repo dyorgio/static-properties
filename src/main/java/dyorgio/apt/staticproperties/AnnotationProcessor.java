@@ -191,7 +191,7 @@ public class AnnotationProcessor extends AbstractProcessor {
                 + "    }\n"
                 + "    public StaticProperty(StaticProperty parent, String path) {\n"
                 + "        this.parent = parent;\n"
-                + "        if (parent != null){\n"
+                + "        if (parent.getPath() != null){\n"
                 + "            this.path = parent.getPath() + \".\" + path;\n"
                 + "        } else {\n"
                 + "            this.path = path;\n"
