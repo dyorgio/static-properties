@@ -1,6 +1,6 @@
 Static Properties [![Build Status](https://travis-ci.org/dyorgio/static-properties.svg?branch=master)](https://travis-ci.org/dyorgio/static-properties)
 ===============
-A annotation processor for static property navigation
+An annotation processor for static property navigation
 
 Usage
 -----
